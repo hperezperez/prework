@@ -1,10 +1,7 @@
-
-<! DOCTYPE html>
-<hmtl lang="en">
-	<<<<<<< HEAD
+<!DOCTYPE html>
+<html lang="en">
 
 	<title>Data Design Proyect Phase 1 </title>
-	=======
 	<head>
 		<meta charset="utf-8">
 		<title>Data Design Proyect Phase 1 </title>
@@ -70,6 +67,6 @@
 
 			</div>
 	</body>
-</hmtl>
+</html>
 
 
