@@ -16,7 +16,7 @@
 			</header>
 			<p> He is school teacher. He likes extreme sports. He  likes speed.</P>
 			<p>He is single with one kid and one dog. He travels in the summer.</p>
-			<img src="picture/pictures/actionfoto.jpg" alt="action">
+			<img src="pictures/pictures/actionfoto.jpg" alt="action">
 			<h3>Use cases</h3>
 			<ul>
 
@@ -25,7 +25,7 @@
 				<li> The third use case is a person try to rent a car by accesing the site make reservation but never reserve it </li>
 			</ul>
 			<h1>Entity Relationship Diagram</h1>
-			<img src="pictures/grafica1.jpg.bmp"alt="diagram">
+			<img src="pictures/pictures/grafica1.jpg.bmp"alt="diagram">
 			<div clas="sql">
 
 				<p>DROP TABLE IF EXISTS renter; </p>
