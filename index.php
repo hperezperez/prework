@@ -25,7 +25,7 @@
 				<li> The third use case is a person try to rent a car by accesing the site make reservation but never reserve it </li>
 			</ul>
 			<h1>Entity Relationship Diagram</h1>
-			<img src="pictures/pictures/grafica1.jpg.bmp"alt="diagram">
+			<img src="pictures/pictures/dibujo1.jpg"alt="diagram">
 			<div clas="sql">
 
 				<p>DROP TABLE IF EXISTS renter; </p>
