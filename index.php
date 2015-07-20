@@ -16,7 +16,7 @@
 			</header>
 			<p> He is school teacher. He likes extreme sports. He  likes speed.</P>
 			<p>He is single with one kid and one dog. He travels in the summer.</p>
-			<img src="pictures/actionfoto.jpg" alt="action">
+			<img src="/picture/pictures/actionfoto.jpg" alt="action">
 			<h3>Use cases</h3>
 			<ul>
 
