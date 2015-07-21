@@ -50,7 +50,7 @@
 				<P>location     VARCHAR (32)  NOT NULL</P>
 				<p>INDEX (renterid)</p>
 				<p>FOREIGN KEY (renterid)  REFERENCES renter (renterid),</p>
-				<p>PRIMARY KEY  (car_rented id)</p>
+				<p> PRIMARY KEY  (car_rented id)</p>
 				<p>);</p>
 				<p>    </p>
 				<p>CREATE TABLE reservation ( </p>
